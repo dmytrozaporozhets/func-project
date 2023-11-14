@@ -1,2 +1,2 @@
 # func-app
-А set of functions that will help when writing code
+This is a template project that contains a set of some functions for writing code
